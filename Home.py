@@ -13,6 +13,6 @@ st.markdown(
     - **Visão Pedidos e Faturamento por Categoria:**            
         - Indicadores Gerais: Total de Pedidos, Faturamento Total, Ticket Médio
         - Visão Pedidos por Categoria
-        - Visão Faturamento por Categoria    pip freeze
+        - Visão Faturamento por Categoria  
         - **Importante:** Nessa visão, como padrão, será exibido as 30 categorias que mais tiveram pedidos ou mais faturarem. Você poderá escolher mais ou menos categorias pelo menu lateral. 
 """)
