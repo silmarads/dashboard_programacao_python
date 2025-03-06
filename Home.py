@@ -5,7 +5,7 @@ st.set_page_config(page_title='Home')
 st.markdown(
     """
     ### Dashboard construído para acompanhar as métricas de Vendas e Pedidos.
-    ### Como utilizar esse Growth Dashboard?
+    ### Como utilizar esse Dashboard?
     - **Visão Vendas por Estado:**          
         - Indicadores Gerais: Vendas Totais, Clientes Únicos, Vendedores Únicos
         - Visão Geral das Vendas por Estado: 
