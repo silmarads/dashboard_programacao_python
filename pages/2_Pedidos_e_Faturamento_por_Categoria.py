@@ -73,7 +73,7 @@ def visao_pedido(df):
     plt.title('Qtd. Pedidos por Categoria')
     plt.xlabel('Categoria')
     plt.ylabel('Qtd. Pedidos')
-    plt.xticks(rotation=90)
+    plt.xticks(rotation=60)
     col2.pyplot(fig2)
 
     return None
@@ -106,7 +106,7 @@ def visao_faturamento(df):
     plt.title('Faturamento por Categoria')
     plt.xlabel('Categoria')
     plt.ylabel('Faturamento (R$)')
-    plt.xticks(rotation=90)
+    plt.xticks(rotation=60)
     col2.pyplot(fig2)
 
     return None
