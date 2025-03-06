@@ -8,7 +8,7 @@ st.markdown(
     ### Como utilizar esse Dashboard?
     - **Visão Vendas por Estado:**          
         - Indicadores Gerais: Vendas Totais, Clientes Únicos, Vendedores Únicos
-        - Visão Geral das Vendas por Estado: 
+        - Visão Geral das Vendas por Estado
         - Visão Temporal por Estado 
     - **Visão Pedidos e Faturamento por Categoria:**            
         - Indicadores Gerais: Total de Pedidos, Faturamento Total, Ticket Médio
